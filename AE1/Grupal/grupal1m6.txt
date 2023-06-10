@@ -1,0 +1,5 @@
+A la fecha: Thu Jun 08 2023 13:23:08 GMT-0400 (hora estándar de Chile)
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir: 1000 pesos
+Convertido a "uf" da un total de:
+$0.03
